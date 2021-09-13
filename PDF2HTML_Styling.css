@@ -1,0 +1,131 @@
+
+.HHIncome1 {column-count: 2;
+			padding-left: 100px;
+			padding-right: 100px;
+			font-family: Lucida Sans;
+			font-size: 12px;}
+			
+.HHIncome2 {column-count: 1;
+			padding-left: 100px;
+			padding-right: 100px;
+			background-color: #FFE4B5;
+			padding: 15px;
+			padding-bottom: 1px;
+			padding-top: 1px;
+			font-family: Lucida Sans;
+			font-size: 12px;}
+			
+.HHIncome3 {column-count: 3;
+			padding-left: 100px;
+			padding-right: 100px;
+			font-family: Lucida Sans;
+			font-size: 12px;}
+			
+.aligncenter {
+	text-align: center;
+	color: #5B2C91;
+	font-weight: bold;}
+	
+td.alignleft:before{
+	float: left;
+    width: 0;
+    white-space: nowrap;
+    content:
+ "....................................."}
+ 
+.alignleft span:first-child {
+    padding-right: 0.33em;
+    background: white}
+	
+.alignleft span + span {
+    float: right;
+    padding-left: 0.33em;
+    background: white}
+	
+.US {color: #5B2C91;
+	 font-weight: bold;}
+
+.alignleft {
+	text-align: left;}
+	
+.inc-header {font-weight: normal;}
+
+.sect-head {font-family: "Times New Roman", Times, serif; 
+	font-weight: lighter;
+	color: #5B2C91;
+	font-size: 16px}
+	
+.bold-title {text-decoration: underline;}
+
+.issue-number {padding-bottom: 25px;
+			   padding-top: 6px;
+			   font-size: 7pt;}
+
+h1 {color: #5B2C91; 
+	font-size: 20pt;  
+	font-weight: lighter; 
+	font-family: "Times New Roman", Times, serif;
+	padding-left: 100px;
+	margin-bottom: -10px}
+	
+h2 {color: #949698; 
+	font-size: 18pt; 
+	font-style: italic; 
+	font-weight: lighter; 
+	font-family: "Times New Roman", Times, serif;
+	padding-left: 100px;
+	margin-top: -1px}
+	
+h4 {font-family: "Times New Roman", Times, serif; 
+	font-weight: lighter;
+	padding-left: 100px;
+	color: #5B2C91;}
+	
+h5 {font-family: Lucida Sans; 
+	font-weight: lighter;
+	padding-left: 100px;
+	margin-bottom: -20px}
+	
+h6 {font-family: Arial, Helvetica, sans-serif; 
+	font-weight: lighter;
+	padding-left: 100px;
+	padding-right: 100px;
+	margin-top: -18px;}
+	
+table {border-collapse: collapse;
+	   font-family: Helvetica;
+	   margin-left: auto; 
+	   margin-right: auto;
+	   width: 78%;}
+
+td:first-child, th:first-child {
+ border-left: none;
+}
+
+td:last-child, th:last-child {
+ border-right: none;
+}
+
+td {text-align: right;
+	padding: 3px;
+	border:1px solid black;}
+	
+th {text-align: center;
+	padding: 3px;
+	border:1px solid black;}
+	
+.hr-long {margin-left: 100px; 
+		  margin-right: 100px;}
+		  
+.hr-short {width: 130px;
+		   margin-left:0}
+
+.foot-para {font-size: 7pt;}
+
+.table-footer {padding-left: 125px;
+			   padding-right: 125px;
+			   margin-bottom: -7px;
+			   font-size: 8pt;
+			   font-family: Lucida Sans;}
+
+
